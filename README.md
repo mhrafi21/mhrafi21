@@ -11,6 +11,12 @@ I love to write code  to work as a web developer to make both front-end as well 
  
 - 📫 How to reach me **mahdi71078rafi@gmail.com**
 
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mhrafi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
+<a href="https://fb.com/mhrafi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmahdihasan.rafi" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -88,21 +94,14 @@ I love to write code  to work as a web developer to make both front-end as well 
   </a>
 </p>
 
+### Most used languages:
 
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mhrafi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
-<a href="https://fb.com/mhrafi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmahdihasan.rafi" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent Stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrafi21&show_icons=true&theme=transparent)
 
 ### Streak stats:
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mhrafi21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### Most used languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21)](https://github.com/anuraghazra/github-readme-stats)
-
