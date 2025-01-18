@@ -11,10 +11,6 @@ I love to write code  to work as a web developer to make both front-end as well 
  
 - 📫 How to reach me **mahdi71078rafi@gmail.com**
 
-<p align="center">
-  <img src="https://yourimageurl.com/banner.gif" alt="banner" />
-</p>
-
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/mhrafi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
