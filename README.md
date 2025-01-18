@@ -100,7 +100,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrafi21&show_icons=true&theme=transparent)
 
 ### Streak stats:
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mhrafi21&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Most used languages:
 
