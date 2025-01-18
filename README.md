@@ -66,8 +66,8 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mahdi-hasan-rafi-7215a42a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
-<a href="https://fb.com/mdmahdihasan.rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmahdihasan.rafi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhrafi21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan-rafi-7215a42a0" height="30" width="40" /></a>
+<a href="https://fb.com/mhrafi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmahdihasan.rafi" height="30" width="40" /></a>
 </p>
 
 ### Recent Stats :
@@ -76,7 +76,6 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Streak stats:
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mhrafi21) 
 
 ### Most used languages:
 
