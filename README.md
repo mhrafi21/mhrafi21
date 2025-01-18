@@ -12,7 +12,6 @@ I love to write code  to work as a web developer to make both front-end as well 
 - 📫 How to reach me **mahdi71078rafi@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-## 🛠️ Technologies and Tools
 
 <p align="left">
   <!-- Frontend Technologies -->
