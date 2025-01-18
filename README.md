@@ -96,7 +96,7 @@ I love to write code  to work as a web developer to make both front-end as well 
 
 ### Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrafi21&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent Stats :
 
